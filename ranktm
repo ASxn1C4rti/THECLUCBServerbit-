@@ -1,0 +1,6 @@
+$nomention 
+$deletecoommand 
+$description[se ha habilitado su rol de <&>]
+$footer[SystemTHECLUBUI]
+$giveRole[<&roleid>]
+$Onlyperms[manageRoles;ops, algo salio mal.]
