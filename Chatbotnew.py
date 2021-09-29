@@ -1,0 +1,6 @@
+print("Hi, how are you?")
+ans =()
+print("great")
+ans =()
+print("atomic sempa, deberas continuarle xd")
+ans =()
